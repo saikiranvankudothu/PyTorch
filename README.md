@@ -6,30 +6,19 @@ This `README.md` provides an overview of PyTorch, including key features, instal
 
 ---
 
-## 📋 Table of Contents
-
-- [ Key Features](#-key-features)
-- [ Installation](#-installation)
-- [ Getting Started](#-getting-started)
-- [ Documentation & Tutorials](#-documentation--tutorials)
-- [ Community & Support](#-community--support)
-- [ Contributing](#-contributing)
-- [ License](#-license)
-
----
 
 ## Key Features
 
 PyTorch offers a rich set of features tailored to deep learning and AI development:
 
-- ** Pythonic & Intuitive:** Designed to feel native to Python, PyTorch integrates smoothly with the broader Python data science ecosystem.
-- ** Dynamic Computational Graphs:** Leverage native control flow like loops and conditionals with `autograd`, enabling flexible and readable model definitions.
-- ** Distributed Training:** Train at scale using `torch.distributed`, which supports multi-GPU and multi-machine setups efficiently.
-- ** Ecosystem of Libraries:** Includes high-level domain libraries like:
+- ** Pythonic & Intuitive: ** Designed to feel native to Python, PyTorch integrates smoothly with the broader Python data science ecosystem.
+- ** Dynamic Computational Graphs: ** Leverage native control flow like loops and conditionals with `autograd`, enabling flexible and readable model definitions.
+- ** Distributed Training: ** Train at scale using `torch.distributed`, which supports multi-GPU and multi-machine setups efficiently.
+- ** Ecosystem of Libraries: ** Includes high-level domain libraries like:
   - `torchvision` (vision),
   - `torchtext` (NLP),
   - `torchaudio` (audio), and more.
-- **📦 Production-Ready:** Export models using `TorchScript` for high-performance inference in production environments (including C++ runtimes).
+- **📦 Production-Ready: ** Export models using `TorchScript` for high-performance inference in production environments (including C++ runtimes).
 
 ---
 
